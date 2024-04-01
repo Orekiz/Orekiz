@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [@Orekiz](https://github.com/Orekiz)
+# 👋 Hi there! I'm [@Oreki](https://github.com/Orekiz)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF)
